@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAQA,AARA,YAQY,EAOZ,GAAG,CAfS;EACR,MAAM,EAAE,KAAK;EACb,KAAK,EAAE,IAAI;CAGd;;AAGD,AAAA,YAAY,CAAA;EAER,gBAAgB,EAJb,KAAK;EAKR,KAAK,EAAE,KAAK;CAEf",
+    "sources": [
+        "newcom.scss"
+    ],
+    "names": [],
+    "file": "newcom.css"
+}

@@ -1,0 +1,21 @@
+%crousel_tag{
+    height: 700px;
+    width: 100%;
+    :-moz-full-screen
+
+
+}
+$name :green;
+
+.crousel_bar{
+    @extend %crousel_tag;
+    background-color: $name ;
+    color: name2;
+
+}
+$name2:green,black;
+img{
+    @extend %crousel_tag;
+}
+
+
